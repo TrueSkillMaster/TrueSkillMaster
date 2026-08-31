@@ -88,4 +88,4 @@ Languages: Ukrainian (native), Russian, Polish (9 years in Poland), English — 
 
 ## Contact
 
-Available for automation projects via Upwork.
+Available for automation projects — [Upwork profile](https://www.upwork.com/freelancers/skillmaster).
