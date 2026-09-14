@@ -1,15 +1,15 @@
 # Dmytro Dumka — AI & Automation Specialist
 
-**30+ working builds · 7 years engineering background before automation**
-Building automation systems that replace manual work: lead pipelines, AI-filtered monitoring, content pipelines, CRM architecture.
-Architect-first, not task-first — I check the assumption before building the thing.
+**30+ working builds · 7 years engineering background before automation**  
+Building automation systems that replace manual work: lead pipelines, AI-filtered monitoring, content pipelines, CRM architecture.  
+Architect-first, not task-first — I check the assumption before building the thing.  
 Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 
 ---
 
 ## Stack
 
-**Automation & Orchestration**
+**Automation & Orchestration**  
 ![n8n](https://img.shields.io/badge/n8n_(self--hosted)-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
@@ -17,7 +17,7 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 ![Apify](https://img.shields.io/badge/Apify-97D700?style=flat-square&logo=apify&logoColor=black)
 ![REST/OAuth2](https://img.shields.io/badge/REST_·_OAuth_2.0-555555?style=flat-square&logoColor=white)
 
-**AI & LLM**
+**AI & LLM**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
@@ -25,26 +25,26 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 ![Pinecone](https://img.shields.io/badge/Pinecone-121142?style=flat-square&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-01CC26?style=flat-square&logoColor=white)
 
-**Data & Backends**
+**Data & Backends**  
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Softr](https://img.shields.io/badge/Softr-2B2358?style=flat-square&logoColor=white)
 
-**Chatbots & Communication**
+**Chatbots & Communication**  
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![ManyChat](https://img.shields.io/badge/ManyChat-0084FF?style=flat-square&logoColor=white)
 ![Voiceflow](https://img.shields.io/badge/Voiceflow-3D82F6?style=flat-square&logoColor=white)
 ![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat-square&logo=mailgun&logoColor=white)
 ![SPF/DKIM/DMARC](https://img.shields.io/badge/SPF_·_DKIM_·_DMARC-555555?style=flat-square&logoColor=white)
 
-**Content & Media**
+**Content & Media**  
 ![Creatomate](https://img.shields.io/badge/Creatomate-6366F1?style=flat-square&logoColor=white)
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat-square&logo=replicate&logoColor=white)
 ![CloudConvert](https://img.shields.io/badge/CloudConvert-D63AFF?style=flat-square&logoColor=white)
 ![Heygen](https://img.shields.io/badge/Heygen-7E3AF2?style=flat-square&logoColor=white)
 
-**Infrastructure & DevOps**
+**Infrastructure & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -52,7 +52,7 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 
-**Languages & Documents**
+**Languages & Documents**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -73,22 +73,22 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 
 ## Selected Projects
 
-**Government Tender Monitor**
+**Government Tender Monitor**  
 Per-minute polling of a public procurement API for a German B2B supplier: hybrid rule + gpt-4o-mini filter (~95% fewer LLM calls), cross-run dedup, 4 parallel outputs. Client's AI cost ~$10–15/month. → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor)
 
-**AI Carousel Factory**
+**AI Carousel Factory**  
 Instagram carousel URL → Claude vision brief → AI image generation → branded templates → 7 PNGs in ~3.5 min at ~$0.30/post. Own product, piloted with an AI school. → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory)
 
-**Service-Business SaaS Platform**
+**Service-Business SaaS Platform**  
 UK bin-cleaning service turned into a productized system: WordPress front, GoHighLevel back office, messaging automation, payment and route workflows.
 
-**RAG Proposal Engine**
+**RAG Proposal Engine**  
 Self-hosted RAG system on Claude API that drafts tailored freelance proposals from a knowledge base of past builds and outcomes. Own internal product.
 
-**Funnel Ecosystem for a Fitness Coach**
+**Funnel Ecosystem for a Fitness Coach**  
 Landing site + multi-step animated intake form + follow-up funnel — design, build, hosting and SSL end-to-end.
 
-**CRM Pipeline Collision Fix**
+**CRM Pipeline Collision Fix**  
 GHL sub-account where booked clients were cloned into the leads pipeline weekly: tag-proxy pattern, bulk-tag of 327 contacts, dedup by email → phone. → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns)
 
 ---
