@@ -1,3 +1,5 @@
+<img src="image.png" alt="Dmytro Dumka — AI & Automation Specialist" width="100%">
+
 # Dmytro Dumka — AI & Automation Specialist
 
 **30+ working builds · 7 years engineering background before automation**\
