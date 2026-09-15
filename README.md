@@ -112,6 +112,6 @@ Before automation: 7 years as the top specialist on industrial spring-coiling ma
 
 ## Connect
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/skillmaster)
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_·_100%25_JSS-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/skillmaster)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmytro_Dumka-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skillmaster/)
 [![Website](https://img.shields.io/badge/dumka.tech-Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://dumka.tech)
