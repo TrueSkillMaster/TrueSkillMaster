@@ -1,4 +1,4 @@
-<img src="image.png" alt="Dmytro Dumka — AI & Automation Specialist" width="100%">
+<img src="image.png?v=2" alt="Dmytro Dumka — AI & Automation Specialist" width="100%">
 
 # Dmytro Dumka — AI & Automation Specialist
 
