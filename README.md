@@ -24,17 +24,28 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 ![Retell AI](https://img.shields.io/badge/Retell_AI-3B82F6?style=flat-square&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-121142?style=flat-square&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-01CC26?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Data & Backends**\
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Softr](https://img.shields.io/badge/Softr-2B2358?style=flat-square&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web & E-commerce**\
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
 **Chatbots & Communication**\
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![ManyChat](https://img.shields.io/badge/ManyChat-0084FF?style=flat-square&logoColor=white)
 ![Voiceflow](https://img.shields.io/badge/Voiceflow-3D82F6?style=flat-square&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Instagram API](https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white)
 ![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat-square&logo=mailgun&logoColor=white)
 ![SPF/DKIM/DMARC](https://img.shields.io/badge/SPF_·_DKIM_·_DMARC-555555?style=flat-square&logoColor=white)
 
@@ -47,6 +58,7 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 **Infrastructure & DevOps**\
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
