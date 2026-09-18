@@ -13,9 +13,8 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first ·
 
 | Result | How |
 |---|---|
-| **60 → 5 min** lead processing | AI intake and drafting, with human review kept in the loop |
-| **−90%** content production time | one YouTube video → a week of posts across 4 platforms → [content-repurposing-pipeline](https://github.com/TrueSkillMaster/content-repurposing-pipeline) |
-| **1 → many** businesses on one booking system | multi-tenant architecture: the next brand is added as config, not code → [multi-tenant-booking](https://github.com/TrueSkillMaster/multi-tenant-booking) |
+| **327 contacts** bulk-tagged, pipeline collision closed | GoHighLevel tag-proxy pattern on a live sub-account → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns) |
+| **1 config file** per business on one booking engine | multi-tenant architecture: the next brand is added as config, not code → [multi-tenant-booking](https://github.com/TrueSkillMaster/multi-tenant-booking) |
 | **~95%** fewer LLM calls | hybrid rule → LLM filter on a live government API → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor) |
 | **~3.5 min / ~$0.30** per branded carousel | Claude vision → image generation → templates → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory) |
 | **5,535 tenders → one-page brief** | 5 years of procurement data, market sizing and competitor breakdown → [tender-market-analysis](https://github.com/TrueSkillMaster/tender-market-analysis) |
@@ -101,7 +100,7 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first ·
 - RAG systems trained on company data (PDFs, Notion, websites) — answers come from your own sources, not guesses; RAG-powered support bots
 - Custom AI agents for lead scoring, document parsing and enrichment
 - Stable, high-load automations in n8n and Make. Error handling, logging and dedup state built in from the first version, not bolted on after the first silent failure
-- Self-hosted n8n at $0/month (Oracle Cloud, Docker, Nginx Proxy Manager, Let's Encrypt) — no execution limits, full data control; migrations off expensive Zapier setups
+- Self-hosted n8n at $0/month (Oracle Cloud, Docker, Nginx Proxy Manager, Let's Encrypt) — no execution limits, full data control; migrations off expensive Zapier setups → [n8n-selfhosted-setup](https://github.com/TrueSkillMaster/n8n-selfhosted-setup)
 
 **Chatbots & messaging**
 - Messenger bots with deep CRM sync; ManyChat and n8n funnels for IG / FB that turn DMs into bookings
@@ -151,10 +150,10 @@ Game-style questionnaire in UA / EN / PL that qualifies a lead step by step and 
 Instagram carousel URL → Claude vision brief → AI image generation → branded templates → 7 PNGs in ~3.5 min at ~$0.30/post. Own product, piloted with an AI school. → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory)
 
 **Content Repurposing Pipeline**\
-YouTube URL → transcript → 4 platform-specific AI writers + image generation → Airtable moderation → publishing. −90% manual content time. → [content-repurposing-pipeline](https://github.com/TrueSkillMaster/content-repurposing-pipeline)
+YouTube URL → transcript → 4 platform-specific AI writers + image generation → Airtable moderation → publishing, a human only reviews. Training build. → [content-repurposing-pipeline](https://github.com/TrueSkillMaster/content-repurposing-pipeline)
 
 **AI Lead Intake & Nurturing**\
-Airtable-centred lead lifecycle for a realtor (call transcription → AI summary → drafted follow-ups for review) and a Jotform → Make → Google APIs personalised-PDF lead magnet. → [ai-lead-intake](https://github.com/TrueSkillMaster/ai-lead-intake)
+Airtable-centred lead lifecycle for a real-estate case (call transcription → AI summary → drafted follow-ups for review; training build) and a Jotform → Make → Google APIs personalised-PDF lead magnet, first delivered as paid work for a UK client. → [ai-lead-intake](https://github.com/TrueSkillMaster/ai-lead-intake)
 
 **CRM Pipeline Collision Fix**\
 GHL sub-account where booked clients were cloned into the leads pipeline weekly: tag-proxy pattern, bulk-tag of 327 contacts, dedup by email → phone. → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns)
@@ -162,6 +161,7 @@ GHL sub-account where booked clients were cloned into the leads pipeline weekly:
 **RAG Proposal Engine**\
 Self-hosted RAG system on Claude API that drafts tailored freelance proposals from a knowledge base of past builds and outcomes. Own internal product.
 
+All builds with origin labelled honestly (client / own product / training): [portfolio](https://github.com/TrueSkillMaster/portfolio)\
 Reusable patterns from all of the above: [automation-patterns](https://github.com/TrueSkillMaster/automation-patterns)
 
 ---
