@@ -2,7 +2,7 @@
 
 # Dmytro Dumka — AI & Automation Engineer
 
-**Top Rated on Upwork · 100% Job Success · 30+ working builds · 7 years engineering background before automation**\
+**Top Rated on Upwork · 100% Job Success · 100+ working builds · 7 years engineering background before automation**\
 I build automation systems that stop operational leaks: lead intake, AI pipelines, CRM architecture, booking and payment flows, websites and forms wired straight into the CRM.\
 Architect-first, not task-first — I check the assumption before building the thing.\
 Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first · open to remote roles (EU / UK / US)
@@ -11,13 +11,14 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first ·
 
 ## Proven Impact
 
-| Result | How |
+| Result | Where |
 |---|---|
-| **327 contacts** bulk-tagged, pipeline collision closed | GoHighLevel tag-proxy pattern on a live sub-account → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns) |
-| **1 config file** per business on one booking engine | multi-tenant architecture: the next brand is added as config, not code → [multi-tenant-booking](https://github.com/TrueSkillMaster/multi-tenant-booking) |
-| **~95%** fewer LLM calls | hybrid rule → LLM filter on a live government API → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor) |
-| **~3.5 min / ~$0.30** per branded carousel | Claude vision → image generation → templates → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory) |
-| **5,535 tenders → one-page brief** | 5 years of procurement data, market sizing and competitor breakdown → [tender-market-analysis](https://github.com/TrueSkillMaster/tender-market-analysis) |
+| **200–300 tenders/day → 0 manual screening**, alert within 1 minute | government procurement monitor, DE client → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor) |
+| **$36.2M market sized** from 5,535 tenders → one-page brief + deck in English and Chinese for a pitch to a global brand | DE client → [tender-market-analysis](https://github.com/TrueSkillMaster/tender-market-analysis) |
+| **2–3 h → 3.5 min** per branded carousel, ~$0.30 each | own product → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory) |
+| **~95% fewer AI calls**, client's AI bill ~$10–15/month | hybrid rule → LLM filter → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor) |
+| **5 of 5 milestones were repeat orders** from one UK client | GoHighLevel fixes → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns) |
+| **$0/month** production n8n, no execution limits | self-hosted stack → [n8n-selfhosted-setup](https://github.com/TrueSkillMaster/n8n-selfhosted-setup) |
 
 ---
 
