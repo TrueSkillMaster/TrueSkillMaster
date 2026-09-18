@@ -1,11 +1,24 @@
-<img src="image.png?v=2" alt="Dmytro Dumka — AI & Automation Specialist" width="100%">
+<img src="image.png?v=2" alt="Dmytro Dumka — AI & Automation Engineer" width="100%">
 
-# Dmytro Dumka — AI & Automation Specialist
+# Dmytro Dumka — AI & Automation Engineer
 
-**30+ working builds · 7 years engineering background before automation**\
-Building automation systems that replace manual work: lead pipelines, AI-filtered monitoring, content pipelines, CRM architecture.\
+**Top Rated on Upwork · 100% Job Success · 30+ working builds · 7 years engineering background before automation**\
+I build automation systems that stop operational leaks: lead intake, AI pipelines, CRM architecture, booking and payment flows, websites and forms wired straight into the CRM.\
 Architect-first, not task-first — I check the assumption before building the thing.\
-Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
+Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first · open to remote roles (EU / UK / US)
+
+---
+
+## Proven Impact
+
+| Result | How |
+|---|---|
+| **60 → 5 min** lead processing | AI intake and drafting, with human review kept in the loop |
+| **−90%** content production time | one YouTube video → a week of posts across 4 platforms → [content-repurposing-pipeline](https://github.com/TrueSkillMaster/content-repurposing-pipeline) |
+| **1 → many** businesses on one booking system | multi-tenant architecture: the next brand is added as config, not code → [multi-tenant-booking](https://github.com/TrueSkillMaster/multi-tenant-booking) |
+| **~95%** fewer LLM calls | hybrid rule → LLM filter on a live government API → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor) |
+| **~3.5 min / ~$0.30** per branded carousel | Claude vision → image generation → templates → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory) |
+| **5,535 tenders → one-page brief** | 5 years of procurement data, market sizing and competitor breakdown → [tender-market-analysis](https://github.com/TrueSkillMaster/tender-market-analysis) |
 
 ---
 
@@ -34,12 +47,16 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Softr](https://img.shields.io/badge/Softr-2B2358?style=flat-square&logoColor=white)
+![Google Cloud APIs](https://img.shields.io/badge/Google_Docs_·_Drive_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Web & E-commerce**\
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Forminator](https://img.shields.io/badge/Forminator-4A5BD4?style=flat-square&logoColor=white)
+![GoCardless](https://img.shields.io/badge/GoCardless_·_Direct_Debit-1C1B1F?style=flat-square&logoColor=white)
+![Jotform](https://img.shields.io/badge/Jotform-FF6100?style=flat-square&logo=jotform&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
 **Chatbots & Communication**\
@@ -55,6 +72,8 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 ![Creatomate](https://img.shields.io/badge/Creatomate-6366F1?style=flat-square&logoColor=white)
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat-square&logo=replicate&logoColor=white)
 ![CloudConvert](https://img.shields.io/badge/CloudConvert-D63AFF?style=flat-square&logoColor=white)
+![gpt-image](https://img.shields.io/badge/gpt--image--1.5-412991?style=flat-square&logo=openai&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux_·_Stable_Diffusion-000000?style=flat-square&logoColor=white)
 ![Heygen](https://img.shields.io/badge/Heygen-7E3AF2?style=flat-square&logoColor=white)
 
 **Infrastructure & DevOps**\
@@ -77,11 +96,37 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 
 ## What I Build
 
-- **AI pipelines** — hybrid rule → LLM filtering, vision analysis, structured JSON output with resilient validation. Every AI decision has an explicit answer to "why isn't this a regex?"
-- **Workflow automation** — n8n (self-hosted or cloud) and Make. Error handling, logging and dedup state built in from the first version, not bolted on after the first silent failure.
-- **CRM architecture** — GoHighLevel workflow design, platform-limitation workarounds, deduplication, DNS-level email deliverability, multi-calendar sync.
-- **Self-hosted infrastructure** — production n8n on Oracle Cloud Free Tier: Docker, Nginx Proxy Manager, Let's Encrypt. $0/month, no execution limits, full data control.
-- **Web & funnels** — landing pages, business sites, multi-step animated forms; domains, hosting and SSL handled end-to-end.
+**AI & automation workflows**
+- AI lead intake: Instagram / messaging channels / forms → OpenAI or Claude → CRM, with review before anything goes out
+- RAG systems trained on company data (PDFs, Notion, websites) — answers come from your own sources, not guesses; RAG-powered support bots
+- Custom AI agents for lead scoring, document parsing and enrichment
+- Stable, high-load automations in n8n and Make. Error handling, logging and dedup state built in from the first version, not bolted on after the first silent failure
+- Self-hosted n8n at $0/month (Oracle Cloud, Docker, Nginx Proxy Manager, Let's Encrypt) — no execution limits, full data control; migrations off expensive Zapier setups
+
+**Chatbots & messaging**
+- Messenger bots with deep CRM sync; ManyChat and n8n funnels for IG / FB that turn DMs into bookings
+- Follow-ups, drip sequences, logic-based routing
+
+**Websites, landing pages & multi-step forms**
+- Business sites and landing pages built for speed — domains, hosting, SSL and DNS handled end to end
+- Multi-language sites routing every visitor into one application form: three languages, one pipeline
+- Animated multi-step forms that qualify leads step by step, wired into the CRM with source and UTM capture
+
+**Payments, booking & multi-tenant systems**
+- Full booking journeys: address lookup, service-area check, package choice, booking saved before payment is taken
+- Card and direct-debit payments with abandoned-payment recovery, retry logic and stop rules
+- One config for pricing, coverage areas and branding — the next business is added as data
+
+**CRM, data & API engineering**
+- GoHighLevel architecture: pipelines, lead management, SPF / DKIM / DMARC, multi-calendar sync, deliverability fixes
+- Jotform → Make → OpenAI / Google APIs: form intake, AI scoring, personalised PDF generation
+- Clean Airtable / Supabase data models; custom API bridges with OAuth 2.0
+- Government API integration with hybrid AI filtering, plus a Python analysis layer on top
+
+**AI vision & content pipelines**
+- Multi-image analysis with Claude Vision — competitor content into structured briefs
+- Brand-consistent image generation with reference fidelity for faces and logos
+- Scraping → vision analysis → generation → branded templating → delivery in 3–5 minutes
 
 ---
 
@@ -90,37 +135,56 @@ Ukraine 🇺🇦 · based in Poland 🇵🇱 · working globally, async-first
 **Government Tender Monitor**\
 Per-minute polling of a public procurement API for a German B2B supplier: hybrid rule + gpt-4o-mini filter (~95% fewer LLM calls), cross-run dedup, 4 parallel outputs. Client's AI cost ~$10–15/month. → [n8n-tender-monitor](https://github.com/TrueSkillMaster/n8n-tender-monitor)
 
+**Tender Market Analysis**\
+Python analysis layer on the same data: 5 years of procurement records, market sizing, competitor breakdown and projections, delivered as a one-page executive brief plus a generated deck. → [tender-market-analysis](https://github.com/TrueSkillMaster/tender-market-analysis)
+
+**Multi-Tenant Booking & Payments**\
+A UK service business turned into a productised booking system: 5-stage booking journey, booking saved before a direct-debit redirect, abandoned-booking and abandoned-payment recovery, everything business-specific in one config. → [multi-tenant-booking](https://github.com/TrueSkillMaster/multi-tenant-booking)
+
+**Coach Website — Game-Menu UI**\
+Three-language site for an online fitness coach: AAA-game-menu hero on desktop, native-app feel on mobile, one source file built into per-language deploys. Live: [coach-holinei.com](https://coach-holinei.com) → [coach-website-game-ui](https://github.com/TrueSkillMaster/coach-website-game-ui)
+
+**Animated Multi-Step Application Form**\
+Game-style questionnaire in UA / EN / PL that qualifies a lead step by step and lands in the coach's messenger through an n8n webhook within seconds. Live: [coach-holinei.com/plan](https://coach-holinei.com/plan/) → [animated-multistep-form](https://github.com/TrueSkillMaster/animated-multistep-form)
+
 **AI Carousel Factory**\
 Instagram carousel URL → Claude vision brief → AI image generation → branded templates → 7 PNGs in ~3.5 min at ~$0.30/post. Own product, piloted with an AI school. → [ai-carousel-factory](https://github.com/TrueSkillMaster/ai-carousel-factory)
 
-**Service-Business SaaS Platform**\
-UK bin-cleaning service turned into a productized system: WordPress front, GoHighLevel back office, messaging automation, payment and route workflows.
+**Content Repurposing Pipeline**\
+YouTube URL → transcript → 4 platform-specific AI writers + image generation → Airtable moderation → publishing. −90% manual content time. → [content-repurposing-pipeline](https://github.com/TrueSkillMaster/content-repurposing-pipeline)
+
+**AI Lead Intake & Nurturing**\
+Airtable-centred lead lifecycle for a realtor (call transcription → AI summary → drafted follow-ups for review) and a Jotform → Make → Google APIs personalised-PDF lead magnet. → [ai-lead-intake](https://github.com/TrueSkillMaster/ai-lead-intake)
+
+**CRM Pipeline Collision Fix**\
+GHL sub-account where booked clients were cloned into the leads pipeline weekly: tag-proxy pattern, bulk-tag of 327 contacts, dedup by email → phone. → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns)
 
 **RAG Proposal Engine**\
 Self-hosted RAG system on Claude API that drafts tailored freelance proposals from a knowledge base of past builds and outcomes. Own internal product.
 
-**Funnel Ecosystem for a Fitness Coach**\
-Landing site + multi-step animated intake form + follow-up funnel — design, build, hosting and SSL end-to-end.
-
-**CRM Pipeline Collision Fix**\
-GHL sub-account where booked clients were cloned into the leads pipeline weekly: tag-proxy pattern, bulk-tag of 327 contacts, dedup by email → phone. → [ghl-architecture-patterns](https://github.com/TrueSkillMaster/ghl-architecture-patterns)
+Reusable patterns from all of the above: [automation-patterns](https://github.com/TrueSkillMaster/automation-patterns)
 
 ---
 
 ## How I Work
 
+- **Audit → architect → deploy** — find where the system leaks time or leads, design it to scale, then build, stress-test and document it for the team.
 - **Calibration before building** — I verify the architectural assumption before writing the first node. If the work turns out unnecessary, the client hears that, not an invoice.
 - **Cost-conscious AI** — cheap deterministic layer first, small model second, big model only on the shortlist. Total cost of ownership is a design decision, not a surprise bill.
-- **Ranges, not fake precision** — an estimate range up front, then a Loom of the actual fix.
+- **Ranges, not fake precision** — an estimate range up front, then a recording of the actual fix.
 - **Async and written** — documentation in the client's channel, backups before every production change, rollback windows stated up front.
 
 ---
 
-## Certifications & Background
+## Certifications & Education
 
-n8n Level 1 & 2 · Make.com Basics → Advanced + AI Automation Explorer · AI Expert Program
+- **n8n Level 2** — #3729 globally · **n8n Level 1** — #8525 globally
+- **Make** — 5 certifications: Basics, Foundation, Intermediate, Advanced, AI Automation Explorer
+- **Marketing Automation School** (2024–2026) — marketing systems & automation architecture: n8n, Make, AI, APIs
+- **College of Electronic Devices, Ivano-Frankivsk National Technical University** (2012–2016) — electronics
 
-Before automation: 7 years as the top specialist on industrial spring-coiling machinery — root-cause habits and systems thinking come from there. Languages: Ukrainian, Russian, Polish, English (all client work in English, written and async).
+Before automation: 7 years as an electromechanic and the top specialist on industrial spring-coiling machinery — root-cause habits and systems thinking come from there.\
+Languages: Ukrainian, Russian, Polish (native) · English (all client work in English, written and async).
 
 ---
 
